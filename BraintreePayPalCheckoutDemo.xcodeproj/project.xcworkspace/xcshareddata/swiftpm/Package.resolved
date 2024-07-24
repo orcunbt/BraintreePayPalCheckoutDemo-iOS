@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "braintree_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/braintree/braintree_ios",
+      "state" : {
+        "revision" : "d7b7f59e0ee9596a899f4579f720b2ab3d65b725",
+        "version" : "6.23.0"
+      }
+    }
+  ],
+  "version" : 2
+}
